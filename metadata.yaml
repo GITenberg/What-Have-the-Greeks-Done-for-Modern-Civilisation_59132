@@ -1,5 +1,8 @@
 _repo: What-Have-the-Greeks-Done-for-Modern-Civilisation_59132
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59132-h/images/cover.jpg
 creator:
   author:
     agent_name: Mahaffy, J. P. (John Pentland)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '37584'
     url: http://www.gutenberg.org/2009/agents/37584
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59132#What-Have-the-Greeks-Done-for-Modern-Civilisation
 gutenberg_issued: '2019-03-26'
 gutenberg_type: Text
 identifiers:
